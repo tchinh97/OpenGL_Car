@@ -17,6 +17,7 @@
 - #include <GL/glut.h>
 
 # Tài liệu tham khảo
+- Hướng dẫn lập trình OpenGL căn bản - Lê Phong
 - Opegl Programming Guide - The red book
 - https://www.khronos.org/
 - https://phattrienphanmem123az.com/lap-trinh-opengl-cpp
