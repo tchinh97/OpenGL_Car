@@ -9,3 +9,18 @@
 - Dùng chuột phải để ô tô tiến về phía bên phải theo trục Ox
 - Dùng chuột trái để ô tô tiến về phía bên trái theo trục Ox
 - Nhất nút chuột giữa để dừng ô tô
+
+# Chú ý
+- Tôi sử dụng Xcode trên MacOS để viết chương trình này, nếu bạn muốn chạy chương trình trên hệ điều hành Windows thì bạn cần sửa lại phần khai báo thư viện trong phần main.c như sau:
+- #include <GL/gl.h>
+- #include <GL/glu.h>
+- #include <GL/glut.h>
+
+# Tài liệu tham khảo
+- Opegl Programming Guide - The red book
+- https://www.khronos.org/
+- https://phattrienphanmem123az.com/lap-trinh-opengl-cpp
+- https://www.coders-hub.com/p/blog-page_580.html
+- https://open.gl
+- https://learnopengl.com
+- https://www.cs.brandeis.edu/~cs155/
